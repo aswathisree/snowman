@@ -1,0 +1,36 @@
+h1{
+    color: blueviolet;
+}
+h2{
+    color: blue;
+}
+h3{
+    color:darkgreen
+}
+h4{
+    color:goldenrod
+}
+h4{
+    color:firebrick
+}
+h5{
+    color:mediumpurple
+}
+div{
+    border:1px solid rgba(255, 0, 0, 0.308);
+    width:300px;
+    left:300px;
+    background-color: rgb(255, 246, 232);
+}
+img{
+    border:1px green;
+    border-radius: 50%;
+    margin-top:50px;
+    margin-left:25px;
+
+}
+/* body{ 
+    background-color:gray
+
+}*/
+    
